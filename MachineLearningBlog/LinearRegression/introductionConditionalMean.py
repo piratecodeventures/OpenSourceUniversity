@@ -18,21 +18,22 @@ num_waffles = coeff_num_guests * num_guests + coeff_appetite * appetite + consta
 # Create a DataFrame
 data = pd.DataFrame({
     'Number of Guests': num_guests,
-    'Friends\' Appetite': appetite,
     'Estimated Waffles': num_waffles
 })
 
-# Create a 3D scatter plot
-fig = px.scatter_3d(data, 
-                     x='Number of Guests', 
-                     y='Friends\' Appetite', 
-                     z='Estimated Waffles',
-                     title='Estimating Waffles Based on Guests and Appetite',
-                     labels={'Number of Guests': 'Number of Guests',
-                             'Friends\' Appetite': 'Friends\' Appetite',
-                             'Estimated Waffles': 'Estimated Waffles'},
-                     color='Estimated Waffles',
-                     size='Estimated Waffles')
+# Create a line plot
+fig = px.line(data, 
+               x='Number of Guests', 
+               y='Estimated Waffles',
+               title='Estimated Waffles Based on Number of Guests',
+               labels={'Number of Guests': 'Number of Guests',
+                       'Estimated Waffles': 'Estimated Waffles'})
+
+# Add scatter points for individual appetite effects
+fig.add_scatter(x=num_guests, y=num_waffles, mode='markers', name='Appetite Impact', marker=dict(color='red'))
+
+# Save the plot as a PNG file
+fig.write_image("estimated_waffles.png")
 
 # Show the plot
 fig.show()
