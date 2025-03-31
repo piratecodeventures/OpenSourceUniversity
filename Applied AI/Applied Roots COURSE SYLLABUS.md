@@ -1,0 +1,784 @@
+
+# Main Syllabus
+
+## Module 1: Fundamentals of Programming [ ]
+- [*] Chapter 1: How to Utilise Applied AI Course?
+	- [x] **1.1** [[How to Learn from Applied AI Course]]?
+- [ ] Chapter 2: [[Python for Data Science  Introduction]] ^905f502b-ef93-8f03
+- [ ] Chapter 3: Python for Data Science: Data Structures ^d3b5dd65-23cc-04b7
+	- [ ] **3.1** Lists
+	- [ ] **3.2** Tuples (Part 1)
+	- [ ] **3.3** Tuples (Part 2)
+	- [ ] **3.4** Sets
+	- [ ] **3.5** Dictionary
+	- [ ] **3.6** Strings
+- [ ] Chapter 4: Python for Data Science: Functions ^39c63fa4-f246-af44
+	- [ ] **4.1** Introduction
+	- [ ] **4.2** Types of Functions
+	- [ ] **4.3** Function Arguments
+	- [ ] **4.4** Recursive Functions
+	- [ ] **4.5** Lambda Functions
+	- [ ] **4.6** Modules
+	- [ ] **4.7** Packages
+	- [ ] **4.8** File Handling
+	- [ ] **4.9** Exception Handling
+	- [ ] **4.10** Debugging Python
+- [ ] Chapter 5: Python for Data Science: NumPy ^b454fb93-b278-8625
+	- [ ] **5.1** Introduction to NumPy
+	- [ ] **5.2** Numerical Operations
+- [ ] Chapter 6: Python for Data Science: Matplotlib ^729a5de2-a3e9-8298
+	- [ ] **6.1** Introduction to Matplotlib
+- [ ] Chapter 7: Python for Data Science: Pandas ^f66df900-77b7-7bfc
+	- [ ] **7.1** Getting Started with Pandas
+	- [ ] **7.2** DataFrame Basics
+	- [ ] **7.3** Key Operations on DataFrames
+- [ ] Chapter 8: Computational Complexity: An Introduction ^1b1b65e6-8a9e-8ffa
+	- [ ] **8.1** Space and Time Complexity: Find the Largest Number in a List
+	- [ ] **8.2** Binary Search
+	- [ ] **8.3** Find Elements Common in Two Lists
+	- [ ] **8.4** Find Elements Common in Two Lists Using a Hashtable/Dict
+- [ ] Chapter 9: SQL [*] ^dd88a826-8225-ea1b
+	- [ ] **9.1** Introduction to Databases
+	- [ ] **9.2** Why SQL?
+	- [ ] **9.3** Execution of an SQL Statement
+	- [ ] **9.4** IMDB Dataset
+	- [ ] **9.5** Installing MySQL
+	- [ ] **9.6** Load IMDB Data
+	- [ ] **9.7** Use, Describe, Show Table
+	- [ ] **9.8** Select
+	- [ ] **9.9** Limit, Offset
+	- [ ] **9.10** Order By
+	- [ ] **9.11** Distinct
+	- [ ] **9.12** Where, Comparison Operators, NULL
+	- [ ] **9.13** Logic Operators
+	- [ ] **9.14** Aggregate Functions: COUNT, MIN, MAX, AVG, SUM
+	- [ ] **9.15** Group By
+	- [ ] **9.16** Having
+	- [ ] **9.17** Order of Keywords
+	- [ ] **9.18** Join and Natural Join
+	- [ ] **9.19** Inner, Left, Right, and Outer Joins
+	- [ ] **9.20** Sub Queries/Nested Queries/Inner Queries
+	- [ ] **9.21** DML: INSERT
+	- [ ] **9.22** DML: UPDATE, DELETE
+	- [ ] **9.23** DML: CREATE, TABLE
+	- [ ] **9.24** DDL: ALTER, ADD, MODIFY, DROP
+	- [ ] **9.25** DDL: DROP TABLE, TRUNCATE, DELETE
+	- [ ] **9.26** Data Control Language: GRANT, REVOKE
+	- [ ] **9.27** Learning Resources
+
+## Module 2: Data Science: Exploratory Data Analysis and Data Visualization [ ] ^b58abec6-e249-a922
+- [ ] Chapter 1: Plotting for Exploratory Data Analysis (EDA)
+	- [ ] **10.1** Introduction to Iris Dataset and 2D Scatter-Plot
+	- [ ] **10.2** 3D Scatter-Plot
+	- [ ] **10.3** Pair Plots
+	- [ ] **10.4** Limitations of Pair Plots
+	- [ ] **10.5** Histogram and Introduction to PDF (Probability Density Function)
+	- [ ] **10.6** Univariate Analysis Using PDF
+	- [ ] **10.7** CDF (Cumulative Distribution Function)
+	- [ ] **10.8** Variance, Standard Deviation
+	- [ ] **10.9** Median
+	- [ ] **10.10** Percentiles and Quantiles
+	- [ ] **10.11** IQR (InterQuartile Range), MAD (Median Absolute Deviation)
+	- [ ] **10.12** Box-Plot with Whiskers
+	- [ ] **10.13** Violin Plots
+	- [ ] **10.14** Summarizing Plots: Univariate, Bivariate, and Multivariate Analysis
+	- [ ] **10.15** Multivariate Probability Density, Contour Plot
+- [ ] Chapter 2: Linear Algebra
+	- [ ] **11.1** Why Learn It?
+	- [ ] **11.2** Introduction to Vectors (2-D, 3-D, n-D), Row Vectors, and Column Vectors
+	- [ ] **11.3** Dot Product and the Angle Between Two Vectors
+	- [ ] **11.4** Projection and Unit Vector
+	- [ ] **11.5** Equation of a Line (2-D), Plane (3-D), and Hyperplane (n-D)
+	- [ ] **11.6** Distance of a Point from a Plane/Hyperplane, Half-Spaces
+	- [ ] **11.7** Equation of a Circle (2-D), Sphere (3-D), and Hypersphere (n-D)
+	- [ ] **11.8** Equation of an Ellipse (2-D), Ellipsoid (3-D), and Hyperellipsoid (n-D)
+	- [ ] **11.9** Square, Rectangle
+	- [ ] **11.10** Hypercube, Hypercuboid
+	- [ ] **11.11** Revision Questions
+- [ ] Chapter 3: Probability and Statistics
+	- [ ] **12.1** Introduction to Probability and Statistics
+	- [ ] **12.2** Population & Sample
+	- [ ] **12.3** Gaussian/Normal Distribution and its PDF (Probability Density Function)
+	- [ ] **12.4** CDF (Cumulative Density Function) of Gaussian/Normal Distribution
+	- [ ] **12.5** Symmetric Distribution, Skewness, and Kurtosis
+	- [ ] **12.6** Standard Normal Variate (z) and Standardization
+	- [ ] **12.7** Kernel Density Estimation
+	- [ ] **12.8** Sampling Distribution & Central Limit Theorem
+	- [ ] **12.9** Q-Q Plot: Is a Given Random Variable Gaussian Distributed?
+	- [ ] **12.10** How Distributions Are Used
+	- [ ] **12.11** Chebyshev’s Inequality
+	- [ ] **12.12** Discrete and Continuous Uniform Distributions
+	- [ ] **12.13** How to Randomly Sample Data Points (Uniform Distribution)
+	- [ ] **12.14** Bernoulli and Binomial Distribution
+	- [ ] **12.15** Log-Normal
+	- [ ] **12.16** Power Law Distribution
+	- [ ] **12.17** Box-Cox Transform
+	- [ ] **12.18** Applications of Non-Gaussian Distributions
+	- [ ] **12.19** Covariance
+	- [ ] **12.20** Pearson Correlation Coefficient
+	- [ ] **12.21** Spearman Rank Correlation Coefficient
+	- [ ] **12.22** Correlation vs Causation
+	- [ ] **12.23** How to Use Correlations
+	- [ ] **12.24** Confidence Intervals (C.I) Introduction
+	- [ ] **12.25** Computing Confidence Interval Given the Underlying Distribution
+	- [ ] **12.26** C.I for the Mean of a Normal Random Variable
+	- [ ] **12.27** Confidence Interval Using Bootstrapping
+	- [ ] **12.28** Hypothesis Testing Methodology, Null-Hypothesis, p-Value
+	- [ ] **12.29** Hypothesis Testing Intuition with Coin Toss Example
+	- [ ] **12.30** Resampling and Permutation Test
+	- [ ] **12.31** K-S Test for the Similarity of Two Distributions
+	- [ ] **12.32** Code Snippet: K-S Test
+	- [ ] **12.33** Hypothesis Testing: Another Example
+	- [ ] **12.34** Resampling and Permutation Test: Another Example
+	- [ ] **12.35** How to Use Hypothesis Testing
+	- [ ] **12.36** Proportional Sampling
+	- [ ] **12.37** Revision Questions
+- [ ] Chapter 4: Interview Questions on Probability and Statistics
+	- [ ] **13.1** Question & Answers
+- [ ] Chapter 5: Dimensionality Reduction and Visualization
+	- [ ] **14.1** What Is Dimensionality Reduction?
+	- [ ] **14.2** Row Vector and Column Vector
+	- [ ] **14.3** How to Represent a Dataset?
+	- [ ] **14.4** How to Represent a Dataset as a Matrix
+	- [ ] **14.5** Data Preprocessing: Feature Normalization
+	- [ ] **14.6** Mean of a Data Matrix
+	- [ ] **14.7** Data Preprocessing: Column Standardization
+	- [ ] **14.8** Covariance of a Data Matrix
+	- [ ] **14.9** MNIST Dataset (784 Dimensional)
+	- [ ] **14.10** Code to Load MNIST Dataset
+- [ ] Chapter 6: Principal Component Analysis (PCA)
+	- [ ] **15.1** Why Learn It
+	- [ ] **15.2** Geometric Intuition
+	- [ ] **15.3** Mathematical Objective Function
+	- [ ] **15.4** Alternative Formulation of PCA: Distance Minimization
+	- [ ] **15.5** Eigenvalues and Eigenvectors
+	- [ ] **15.6** PCA for Dimensionality Reduction and Visualization
+	- [ ] **15.7** Visualize MNIST Dataset
+	- [ ] **15.8** Limitations of PCA
+	- [ ] **15.9** Code Example
+	- [ ] **15.10** PCA for Dimensionality Reduction (Non-Visualization)
+- [ ] Chapter 7: T-Distributed Stochastic Neighborhood Embedding (t-SNE)
+	- [ ] **16.1** What Is t-SNE?
+	- [ ] **16.2** Neighborhood of a Point, Embedding
+	- [ ] **16.3** Geometric Intuition
+	- [ ] **16.4** Crowding Problem
+	- [ ] **16.5** How to Apply t-SNE and Interpret Its Output (distill.pub)
+	- [ ] **16.6** t-SNE on MNIST
+	- [ ] **16.7** Code Example
+	- [ ] **16.8** Revision Questions
+- [ ] Chapter 8: Interview Questions on Dimensionality Reduction
+	- [ ] **17.1** Question & Answers
+
+## Module 3: Foundations of Natural Language Processing and Machine Learning [ ] ^b7f6fd26-e6e9-f8ed
+- [ ] Chapter 1: Real-World Problem: Predict Rating Given Product Reviews on Amazon ^ecec15b6-4710-fd04
+	- [ ] **18.1** Dataset Overview: Amazon Fine Food Reviews (EDA)
+	- [ ] **18.2** Data Cleaning: Deduplication
+	- [ ] **18.3** Why Convert Text to a Vector?
+	- [ ] **18.4** Bag of Words (BoW)
+	- [ ] **18.5** Text Preprocessing: Stemming, Stop-Word Removal, Tokenization, Lemmatization
+	- [ ] **18.6** Uni-Gram, Bi-Gram, n-Grams
+	- [ ] **18.7** TF-IDF (Term Frequency-Inverse Document Frequency)
+	- [ ] **18.8** Why Use the Log in IDF?
+	- [ ] **18.9** Word2Vec
+	- [ ] **18.10** Avg-Word2Vec, TF-IDF Weighted Word2Vec
+	- [ ] **18.11** Bag of Words (Code Sample)
+	- [ ] **18.12** Text Preprocessing (Code Sample)
+	- [ ] **18.13** Bi-Grams and n-Grams (Code Sample)
+	- [ ] **18.14** TF-IDF (Code Sample)
+	- [ ] **18.15** Word2Vec (Code Sample)
+	- [ ] **18.16** Avg-Word2Vec and TF-IDF-Word2Vec (Code Sample)
+- [ ] Chapter 2: Classification and Regression Models: K-Nearest Neighbors ^88f6cd3f-66c9-6aeb
+	- [ ] **19.1** How "Classification" Works?
+	- [ ] **19.2** Data Matrix Notation
+	- [ ] **19.3** Classification vs Regression (Examples)
+	- [ ] **19.4** K-Nearest Neighbors Geometric Intuition with a Toy Example
+	- [ ] **19.5** Failure Cases of K-NN
+	- [ ] **19.6** Distance Measures: Euclidean (L2), Manhattan (L1), Minkowski, Hamming
+	- [ ] **19.7** Cosine Distance & Cosine Similarity
+	- [ ] **19.8** How to Measure the Effectiveness of k-NN?
+	- [ ] **19.9** Test/Evaluation Time and Space Complexity
+	- [ ] **19.10** k-NN Limitations
+	- [ ] **19.11** Decision Surface for K-NN as K Changes
+	- [ ] **19.12** Overfitting and Underfitting
+	- [ ] **19.13** Need for Cross-Validation
+	- [ ] **19.14** K-Fold Cross-Validation
+	- [ ] **19.15** Visualizing Train, Validation, and Test Datasets
+	- [ ] **19.16** How to Determine Overfitting and Underfitting?
+	- [ ] **19.17** Time-Based Splitting
+	- [ ] **19.18** k-NN for Regression
+	- [ ] **19.19** Weighted k-NN
+	- [ ] **19.20** Voronoi Diagram
+	- [ ] **19.21** Binary Search Tree
+	- [ ] **19.22** How to Build a KD-Tree
+	- [ ] **19.23** Find Nearest Neighbors Using KD-Tree
+	- [ ] **19.24** Limitations of KD-Tree
+	- [ ] **19.25** Extensions
+	- [ ] **19.26** Hashing vs LSH
+	- [ ] **19.27** LSH for Cosine Similarity
+	- [ ] **19.28** LSH for Euclidean Distance
+	- [ ] **19.29** Probabilistic Class Label
+	- [ ] **19.30** Code Sample: Decision Boundary
+	- [ ] **19.31** Code Samples: Cross-Validation
+	- [ ] **19.32** Revision Questions
+- [ ] Chapter 3: Interview Questions on k-NN
+	- [ ] **20.1** Question & Answers
+- [ ] Chapter 4: Classification Algorithms in Various Situations
+	- [ ] **21.1** Introduction
+	- [ ] **21.2** Imbalanced vs Balanced Dataset
+	- [ ] **21.3** Multi-Class Classification
+	- [ ] **21.4** k-NN Given a Distance or Similarity Matrix
+	- [ ] **21.5** Train and Test Set Differences
+	- [ ] **21.6** Impact of Outliers
+	- [ ] **21.7** Local Outlier Factor (Simple Solution: Mean Distance to k-NN)
+	- [ ] **21.8** k-Distance (A), N(A)
+	- [ ] **21.9** Reachability-Distance (A, B)
+	- [ ] **21.10** Local-Reachability-Density (A)
+	- [ ] **21.11** Local Outlier Factor (A)
+	- [ ] **21.12** Impact of Scale & Column Standardization
+	- [ ] **21.13** Interpretability
+	- [ ] **21.14** Feature Importance & Forward Feature Selection
+	- [ ] **21.15** Handling Categorical and Numerical Features
+	- [ ] **21.16** Handling Missing Values by Imputation
+	- [ ] **21.17** Curse of Dimensionality
+	- [ ] **21.18** Bias-Variance Tradeoff
+	- [ ] **21.19** Intuitive Understanding of Bias-Variance
+	- [ ] **21.20** Revision Questions
+	- [ ] **21.21** Best and Worst Case of an Algorithm
+- [ ] Chapter 5: Performance Measurement of Models
+	- [ ] **22.1** Accuracy
+	- [ ] **22.2** Confusion Matrix, TPR, FPR, FNR, TNR
+	- [ ] **22.3** Precision & Recall, F1-Score
+	- [ ] **22.4** Receiver Operating Characteristic Curve (ROC) and AUC
+	- [ ] **22.5** Log-Loss
+	- [ ] **22.6** R-Squared/Coefficient of Determination
+	- [ ] **22.7** Median Absolute Deviation (MAD)
+	- [ ] **22.8** Distribution of Errors
+	- [ ] **22.9** Revision Questions
+- [ ] Chapter 6: Interview Questions on Performance Measurement Models
+	- [ ] **23.1** Question & Answers
+- [ ] Chapter 7: Naive Bayes
+	- [ ] **24.1** Conditional Probability
+	- [ ] **24.2** Independent vs Mutually Exclusive Events
+	- [ ] **24.3** Bayes Theorem with Examples
+	- [ ] **24.4** Exercise Problems on Bayes Theorem
+	- [ ] **24.5** Naive Bayes Algorithm
+	- [ ] **24.6** Toy Example: Train and Test Stages
+	- [ ] **24.7** Naive Bayes on Text Data
+	- [ ] **24.8** Laplace/Additive Smoothing
+	- [ ] **24.9** Log-Probabilities for Numerical Stability
+	- [ ] **24.10** Bias and Variance Tradeoff
+	- [ ] **24.11** Feature Importance and Interpretability
+	- [ ] **24.12** Imbalanced Data
+	- [ ] **24.13** Outliers
+	- [ ] **24.14** Missing Values
+	- [ ] **24.15** Handling Numerical Features (Gaussian NB)
+	- [ ] **24.16** Multiclass Classification
+	- [ ] **24.17** Similarity or Distance Matrix
+	- [ ] **24.18** Large Dimensionality
+	- [ ] **24.19** Best and Worst Cases
+	- [ ] **24.20** Code Example
+	- [ ] **24.21** Exercise: Apply Naive Bayes to Amazon Reviews
+- [ ] Chapter 8: Logistic Regression
+	- [ ] **25.1** Geometric Intuition of Logistic Regression
+	- [ ] **25.2** Sigmoid Function: Squashing
+	- [ ] **25.3** Mathematical Formulation of Objective Function
+	- [ ] **25.4** Weight Vector
+	- [ ] **25.5** L2 Regularization: Overfitting and Underfitting
+	- [ ] **25.6** L1 Regularization and Sparsity
+	- [ ] **25.7** Probabilistic Interpretation: Gaussian Naive Bayes
+	- [ ] **25.8** Loss Minimization Interpretation
+	- [ ] **25.9** Hyperparameter Search: Grid Search and Random Search
+	- [ ] **25.10** Column Standardization
+	- [ ] **25.11** Feature Importance and Model Interpretability
+	- [ ] **25.12** Collinearity of Features
+	- [ ] **25.13** Train & Run Time Complexity
+	- [ ] **25.14** Real-World Cases
+	- [ ] **25.15** Non-Linearly Separable Data & Feature Engineering
+	- [ ] **25.16** Code Sample: Logistic Regression, GridSearchCV, RandomSearchCV
+	- [ ] **25.17** Extensions to Logistic Regression: Generalized Linear Models (GLM)
+- [ ] Chapter 9: Linear Regression
+	- [ ] **26.1** Geometric Intuition of Linear Regression
+	- [ ] **26.2** Mathematical Formulation
+	- [ ] **26.3** Real-World Cases
+	- [ ] **26.4** Code Sample for Linear Regression
+- [ ] Chapter 10: Solving Optimization Problems
+	- [ ] **27.1** Differentiation
+	- [ ] **27.2** Online Differentiation Tools
+	- [ ] **27.3** Maxima and Minima
+	- [ ] **27.4** Vector Calculus: Grad
+	- [ ] **27.5** Gradient Descent: Geometric Intuition
+	- [ ] **27.6** Learning Rate
+	- [ ] **27.7** Gradient Descent for Linear Regression
+	- [ ] **27.8** SGD Algorithm
+	- [ ] **27.9** Constrained Optimization & PCA
+	- [ ] **27.10** Logistic Regression Formulation Revisited
+	- [ ] **27.11** Why L1 Regularization Creates Sparsity?
+	- [ ] **27.12** Revision Questions
+- [ ] Chapter 11: Interview Questions on Logistic and Linear Regression
+	- [ ] **28.1** Question & Answers
+
+## Module 4: Machine Learning - II (Supervised Learning Models) [ ] ^a83a18c5-ed20-651a
+- [ ] Chapter 1: Support Vector Machines (SVM)
+	- [ ] **29.1** Geometric Intuition
+	- [ ] **29.2** Mathematical Derivation
+	- [ ] **29.3** Why We Take Values +1 and -1 for Support Vector Planes
+	- [ ] **29.4** Loss Function (Hinge Loss) Based Interpretation
+	- [ ] **29.5** Dual Form of SVM Formulation
+	- [ ] **29.6** Kernel Trick
+	- [ ] **29.7** Polynomial Kernel
+	- [ ] **29.8** RBF-Kernel
+	- [ ] **29.9** Domain-Specific Kernels
+	- [ ] **29.10** Train and Run-Time Complexities
+	- [ ] **29.11** nu-SVM: Control Errors and Support Vectors
+	- [ ] **29.12** SVM Regression
+	- [ ] **29.13** Cases
+	- [ ] **29.14** Code Sample
+	- [ ] **29.15** Revision Questions
+- [ ] Chapter 2: Interview Questions on Support Vector Machines
+	- [ ] **30.1** Questions & Answers
+- [ ] Chapter 3: Decision Trees
+	- [ ] **31.1** Geometric Intuition of Decision Tree: Axis-Parallel Hyperplanes
+	- [ ] **31.2** Sample Decision Tree
+	- [ ] **31.3** Building a Decision Tree: Entropy (Intuition Behind Entropy)
+	- [ ] **31.4** Building a Decision Tree: Information Gain
+	- [ ] **31.5** Building a Decision Tree: Gini Impurity
+	- [ ] **31.6** Building a Decision Tree: Constructing a Decision Tree
+	- [ ] **31.7** Building a Decision Tree: Splitting Numerical Features
+	- [ ] **31.8** Feature Standardization
+	- [ ] **31.9** Categorical Features with Many Possible Values
+	- [ ] **31.10** Overfitting and Underfitting
+	- [ ] **31.11** Train and Run-Time Complexity
+	- [ ] **31.12** Regression Using Decision Trees
+	- [ ] **31.13** Cases
+	- [ ] **31.14** Code Samples
+	- [ ] **31.15** Revision Questions
+- [ ] Chapter 4: Interview Questions on Decision Trees
+	- [ ] **32.1** Questions & Answers
+- [ ] Chapter 5: Ensemble Models
+	- [ ] **33.1** What Are Ensembles?
+	- [ ] **33.2** Bootstrapped Aggregation (Bagging) Intuition
+	- [ ] **33.3** Random Forest and Their Construction
+	- [ ] **33.4** Bias-Variance Tradeoff
+	- [ ] **33.5** Train and Run-Time Complexity
+	- [ ] **33.6** Bagging: Code Sample
+	- [ ] **33.7** Extremely Randomized Trees
+	- [ ] **33.8** Random Forest: Cases
+	- [ ] **33.9** Boosting Intuition
+	- [ ] **33.10** Residuals, Loss Functions, and Gradients
+	- [ ] **33.11** Gradient Boosting
+	- [ ] **33.12** Regularization by Shrinkage
+	- [ ] **33.13** Train and Run-Time Complexity
+	- [ ] **33.14** XGBoost: Boosting + Randomization
+	- [ ] **33.15** AdaBoost: Geometric Intuition
+	- [ ] **33.16** Stacking Models
+	- [ ] **33.17** Cascading Classifiers
+	- [ ] **33.18** Kaggle Competitions vs Real World
+	- [ ] **33.19** Revision Questions
+
+## Module 5: Feature Engineering, Productionisation, and Deployment of ML Models [ ] ^88bbfc0b-892c-15f8
+- [ ] Chapter 1: Featurizations and Feature Engineering
+	- [ ] **34.1** Introduction
+	- [ ] **34.2** Moving Window for Time-Series Data
+	- [ ] **34.3** Fourier Decomposition
+	- [ ] **34.4** Deep Learning Features: LSTM
+	- [ ] **34.5** Image Histogram
+	- [ ] **34.6** Key Points: SIFT
+	- [ ] **34.7** Deep Learning Features: CNN
+	- [ ] **34.8** Relational Data
+	- [ ] **34.9** Graph Data
+	- [ ] **34.10** Indicator Variables
+	- [ ] **34.11** Feature Binning
+	- [ ] **34.12** Interaction Variables
+	- [ ] **34.13** Mathematical Transforms
+	- [ ] **34.14** Model-Specific Featurizations
+	- [ ] **34.15** Feature Orthogonality
+	- [ ] **34.16** Domain-Specific Featurizations
+	- [ ] **34.17** Feature Slicing
+	- [ ] **34.18** Kaggle Winner's Solutions
+- [ ] Chapter 2: Miscellaneous Topics
+	- [ ] **35.1** Calibration of Models: Need for Calibration
+	- [ ] **35.2** Calibration Plots
+	- [ ] **35.3** Platt’s Calibration/Scaling
+	- [ ] **35.4** Isotonic Regression
+	- [ ] **35.5** Code Samples
+	- [ ] **35.6** Modeling in the Presence of Outliers: RANSAC
+	- [ ] **35.7** Productionizing Models
+	- [ ] **35.8** Retraining Models Periodically
+	- [ ] **35.9** A/B Testing
+	- [ ] **35.10** Data Science Life Cycle
+	- [ ] **35.11** Production and Deployment of Machine Learning Models
+	- [ ] **35.12** Live Session: Productionalization and Deployment of Machine Learning Models
+	- [ ] **35.13** Hands-On Live Session: Deploy an ML Model Using APIs on AWS
+	- [ ] **35.14** VC Dimension
+
+## Module 6: Machine Learning Real-World Case Studies [ ] ^56956030-0b2b-600b
+- [ ] Chapter 1: Quora Question Pair Similarity Problem
+	- [ ] **36.1** Business/Real World Problem: Problem Definition
+	- [ ] **36.2** Business Objectives and Constraints
+	- [ ] **36.3** Mapping to an ML Problem: Data Overview
+	- [ ] **36.4** Mapping to an ML Problem: ML Problem and Performance Metric
+	- [ ] **36.5** Mapping to an ML Problem: Train-Test Split
+	- [ ] **36.6** EDA: Basic Statistics
+	- [ ] **36.7** EDA: Basic Feature Extraction
+	- [ ] **36.8** EDA: Text Preprocessing
+	- [ ] **36.9** EDA: Advanced Feature Extraction
+	- [ ] **36.10** EDA: Feature Analysis
+	- [ ] **36.11** EDA: Data Visualization (T-SNE)
+	- [ ] **36.12** EDA: TF-IDF Weighted Word-Vector Featurization
+	- [ ] **36.13** ML Models: Loading Data
+	- [ ] **36.14** ML Models: Random Model
+	- [ ] **36.15** ML Models: Logistic Regression & Linear SVM
+	- [ ] **36.16** ML Models: XGBoost
+- [ ] Chapter 2: Personalized Cancer Diagnosis
+	- [ ] **37.1** Business/Real World Problem Overview
+	- [ ] **37.2** Business Objectives and Constraints
+	- [ ] **37.3** ML Problem Formulation: Data
+	- [ ] **37.4** ML Problem Formulation: Mapping Real World to ML Problem
+	- [ ] **37.5** ML Problem Formulation: Train, CV, and Test Data Construction
+	- [ ] **37.6** EDA: Reading Data & Preprocessing
+	- [ ] **37.7** EDA: Distribution of Class-Labels
+	- [ ] **37.8** EDA: "Random" Model
+	- [ ] **37.9** Univariate Analysis: Gene Feature
+	- [ ] **37.10** Univariate Analysis: Variation Feature
+	- [ ] **37.11** Univariate Analysis: Text Feature
+	- [ ] **37.12** Machine Learning Models: Data Preparation
+	- [ ] **37.13** Baseline Model: Naive Bayes
+	- [ ] **37.14** K-Nearest Neighbors Classification
+	- [ ] **37.15** Logistic Regression with Class Balancing
+	- [ ] **37.16** Logistic Regression without Class Balancing
+	- [ ] **37.17** Linear SVM
+	- [ ] **37.18** Random Forest with One-Hot Encoded Features
+	- [ ] **37.19** Random Forest with Response-Coded Features
+	- [ ] **37.20** Stacking Classifier
+	- [ ] **37.21** Majority Voting Classifier
+- [ ] Chapter 3: Facebook Friend Recommendation using Graph Mining
+	- [ ] **38.1** Problem Definition
+	- [ ] **38.2** Overview of Graphs: Node/Vertex, Edge/Link, Directed Edge, Path
+	- [ ] **38.3** Data Format & Limitations
+	- [ ] **38.4** Mapping to a Supervised Classification Problem
+	- [ ] **38.5** Business Constraints & Metrics
+	- [ ] **38.6** EDA: Basic Stats
+	- [ ] **38.7** EDA: Follower and Following Stats
+	- [ ] **38.8** EDA: Binary Classification Tasks
+	- [ ] **38.9** EDA: Train and Test Split
+	- [ ] **38.10** Feature Engineering on Graphs: Jaccard & Cosine Similarities
+	- [ ] **38.11** PageRank
+	- [ ] **38.12** Shortest Path
+	- [ ] **38.13** Connected-Components
+	- [ ] **38.14** Adar Index
+	- [ ] **38.15** Katz Centrality
+	- [ ] **38.16** HITS Score
+	- [ ] **38.17** SVD
+	- [ ] **38.18** Weight Features
+	- [ ] **38.19** Modeling
+- [ ] Chapter 4: Taxi Demand Prediction in New York City
+	- [ ] **39.1** Business/Real World Problem Overview
+	- [ ] **39.2** Objectives and Constraints
+	- [ ] **39.3** Mapping to ML Problem: Data
+	- [ ] **39.4** Mapping to ML Problem: Dask DataFrames
+	- [ ] **39.5** Mapping to ML Problem: Fields/Features
+	- [ ] **39.6** Mapping to ML Problem: Time Series Forecasting/Regression
+	- [ ] **39.7** Mapping to ML Problem: Performance Metrics
+	- [ ] **39.8** Data Cleaning: Latitude and Longitude Data
+	- [ ] **39.9** Data Cleaning: Trip Duration
+	- [ ] **39.10** Data Cleaning: Speed
+	- [ ] **39.11** Data Cleaning: Distance
+	- [ ] **39.12** Data Cleaning: Fare
+	- [ ] **39.13** Data Cleaning: Remove Outliers/Erroneous Points
+	- [ ] **39.14** Data Preparation: Clustering/Segmentation
+	- [ ] **39.15** Data Preparation: Time Binning
+	- [ ] **39.16** Data Preparation: Smoothing Time-Series Data
+	- [ ] **39.17** Data Preparation: Smoothing Time-Series Data (Continued)
+	- [ ] **39.18** Data Preparation: Time Series and Fourier Transforms
+	- [ ] **39.19** Ratios and Previous-Time-Bin Values
+	- [ ] **39.20** Simple Moving Average
+	- [ ] **39.21** Weighted Moving Average
+	- [ ] **39.22** Exponential Weighted Moving Average
+	- [ ] **39.23** Results
+	- [ ] **39.24** Regression Models: Train-Test Split & Features
+	- [ ] **39.25** Linear Regression
+	- [ ] **39.26** Random Forest Regression
+	- [ ] **39.27** XGBoost Regression
+	- [ ] **39.28** Model Comparison
+- [ ] Chapter 5: StackOverflow Tag Predictor
+	- [ ] **40.1** Business/Real World Problem
+	- [ ] **40.2** Business Objectives and Constraints
+	- [ ] **40.3** Mapping to an ML Problem: Data Overview
+	- [ ] **40.4** Mapping to an ML Problem: ML Problem Formulation
+	- [ ] **40.5** Mapping to an ML Problem: Performance Metrics
+	- [ ] **40.6** Hamming Loss
+	- [ ] **40.7** EDA: Data Loading
+	- [ ] **40.8** EDA: Analysis of Tags
+	- [ ] **40.9** EDA: Data Preprocessing
+	- [ ] **40.10** Data Modeling: Multi-Label Classification
+	- [ ] **40.11** Data Preparation
+	- [ ] **40.12** Train-Test Split
+	- [ ] **40.13** Featurization
+	- [ ] **40.14** Logistic Regression: One Vs Rest
+	- [ ] **40.15** Sampling Data and Tags + Weighted Models
+	- [ ] **40.16** Logistic Regression Revisited
+	- [ ] **40.17** Why Not Use Advanced Techniques?
+- [ ] Chapter 6: Microsoft Malware Detection
+	- [ ] **41.1** Business/Real World Problem: Problem Definition
+	- [ ] **41.2** Business/Real World Problem: Objectives and Constraints
+	- [ ] **41.3** Machine Learning Problem Mapping: Data Overview
+	- [ ] **41.4** Machine Learning Problem Mapping: ML Problem
+	- [ ] **41.5** Machine Learning Problem Mapping: Train and Test Splitting
+	- [ ] **41.6** EDA: Class Distribution
+	- [ ] **41.7** EDA: Feature Extraction from Byte Files
+	- [ ] **41.8** EDA: Multivariate Analysis of Features from Byte Files
+	- [ ] **41.9** EDA: Train-Test Class Distribution
+	- [ ] **41.10** ML Models Using Byte Files Only: Random Model
+	- [ ] **41.11** k-NN
+	- [ ] **41.12** Logistic Regression
+	- [ ] **41.13** Random Forest and XGBoost
+	- [ ] **41.14** ASM Files: Feature Extraction and Multiprocessing
+	- [ ] **41.15** File-Size Feature
+	- [ ] **41.16** Univariate Analysis
+	- [ ] **41.17** t-SNE Analysis
+	- [ ] **41.18** ML Models on ASM File Features
+	- [ ] **41.19** Models on All Features: t-SNE
+	- [ ] **41.20** Models on All Features: Random Forest and XGBoost
+- [ ] Chapter 7: Ad-Click Prediction
+	- [ ] **42.1** Live Sessions on Ad-Click Prediction
+	- [ ] **42.2** Live Sessions on Ad-Click Prediction (Continued) and Performance Metrics
+
+## Module 7: Data Mining(Unsupervised Learning) and Recommender Systems + Real -world Case Studies [ ] ^0b3a3153-6818-e89e
+- [ ] Chapter 1: Unsupervised Learning/Clustering
+	- [ ] **43.1** What is Clustering?
+	- [ ] **43.2** Unsupervised Learning
+	- [ ] **43.3** Applications
+	- [ ] **43.4** Metrics for Clustering
+	- [ ] **43.5** K-Means: Geometric Intuition, Centroids
+	- [ ] **43.6** K-Means: Mathematical Formulation (Objective Function)
+	- [ ] **43.7** K-Means Algorithm
+	- [ ] **43.8** How to Initialize: K-Means++
+	- [ ] **43.9** Failure Cases/Limitations
+	- [ ] **43.10** K-Medoids
+	- [ ] **43.11** Determining the Right K
+	- [ ] **43.12** Code Samples
+	- [ ] **43.13** Time and Space Complexity
+- [ ] Chapter 2: Hierarchical Clustering Technique
+	- [ ] **44.1** Agglomerative & Divisive, Dendrograms
+	- [ ] **44.2** Agglomerative Clustering
+	- [ ] **44.3** Proximity Methods: Advantages and Limitations
+	- [ ] **44.4** Time and Space Complexity
+	- [ ] **44.5** Limitations of Hierarchical Clustering
+	- [ ] **44.6** Code Sample
+- [ ] Chapter 3: DBSCAN (Density-Based Clustering)
+	- [ ] **45.1** Density-Based Clustering
+	- [ ] **45.2** MinPts and Eps: Density
+	- [ ] **45.3** Core, Border, and Noise Points
+	- [ ] **45.4** Density Edge and Density Connected Points
+	- [ ] **45.5** DBSCAN Algorithm
+	- [ ] **45.6** Hyperparameters: MinPts and Eps
+	- [ ] **45.7** Advantages and Limitations of DBSCAN
+	- [ ] **45.8** Time and Space Complexity
+	- [ ] **45.9** Code Samples
+	- [ ] **45.10** Revision Questions
+- [ ] Chapter 4: Recommender Systems and Matrix Factorization
+	- [ ] **46.1** Problem Formulation: Movie Reviews
+	- [ ] **46.2** Content-Based vs Collaborative Filtering
+	- [ ] **46.3** Similarity-Based Algorithms
+	- [ ] **46.4** Matrix Factorization: PCA, SVD
+	- [ ] **46.5** Matrix Factorization: NMF
+	- [ ] **46.6** Matrix Factorization for Collaborative Filtering
+	- [ ] **46.7** Matrix Factorization for Feature Engineering
+	- [ ] **46.8** Clustering as Matrix Factorization
+	- [ ] **46.9** Hyperparameter Tuning
+	- [ ] **46.10** Matrix Factorization for Recommender Systems: Netflix Prize Solution
+	- [ ] **46.11** Cold Start Problem
+	- [ ] **46.12** Word Vectors as Matrix Factorization
+	- [ ] **46.13** Eigen-Faces
+	- [ ] **46.14** Code Example
+	- [ ] **46.15** Revision Questions
+- [ ] Chapter 5: Interview Questions on Recommender Systems and Matrix Factorization
+	- [ ] **47.1** Questions & Answers
+- [ ] Chapter 6: Case Study 8: Amazon Fashion Discovery Engine
+	- [ ] **48.1** Problem Statement: Recommend Similar Apparel Products
+	- [ ] **48.2** Plan of Action
+	- [ ] **48.3** Amazon Product Advertising API
+	- [ ] **48.4** Data Folders and Paths
+	- [ ] **48.5** Overview of the Data and Terminology
+	- [ ] **48.6** Data Cleaning and Understanding: Missing Data
+	- [ ] **48.7** Understanding Duplicate Rows
+	- [ ] **48.8** Remove Duplicates (Part 1)
+	- [ ] **48.9** Remove Duplicates (Part 2)
+	- [ ] **48.10** Text Preprocessing: Tokenization and Stop-Word Removal
+	- [ ] **48.11** Stemming
+	- [ ] **48.12** Text-Based Product Similarity: Bag of Words (BoW)
+	- [ ] **48.13** Code for BoW-Based Product Similarity
+	- [ ] **48.14** TF-IDF: Featuring Text Based on Word Importance
+	- [ ] **48.15** Code for TF-IDF-Based Product Similarity
+	- [ ] **48.16** Code for IDF-Based Product Similarity
+	- [ ] **48.17** Text Semantics-Based Product Similarity: Word2Vec
+	- [ ] **48.18** Code for Average Word2Vec Product Similarity
+	- [ ] **48.19** TF-IDF Weighted Word2Vec
+	- [ ] **48.20** Code for IDF Weighted Word2Vec Product Similarity
+	- [ ] **48.21** Weighted Similarity Using Brand and Color
+	- [ ] **48.22** Code for Weighted Similarity
+	- [ ] **48.23** Building a Real-World Solution
+	- [ ] **48.24** Deep Learning-Based Visual Product Similarity: ConvNets
+	- [ ] **48.25** Using Keras + TensorFlow to Extract Features
+	- [ ] **48.26** Visual Similarity-Based Product Similarity
+	- [ ] **48.27** Measuring Solution Effectiveness: A/B Testing
+- [ ] Chapter 7: Case Study 9: Netflix Movie Recommendation System
+	- [ ] **49.1** Business/Real World Problem: Problem Definition
+	- [ ] **49.2** Objectives and Constraints
+	- [ ] **49.3** Mapping to an ML Problem: Data Overview
+	- [ ] **49.4** Mapping to an ML Problem: ML Problem Formulation
+	- [ ] **49.5** EDA: Data Preprocessing
+	- [ ] **49.6** EDA: Temporal Train-Test Split
+	- [ ] **49.7** EDA: Preliminary Data Analysis
+	- [ ] **49.8** EDA: Sparse Matrix Representation
+	- [ ] **49.9** EDA: Average Rating for Various Slices
+	- [ ] **49.10** EDA: Cold Start Problem
+	- [ ] **49.12** Computing Similarity Matrices: User-User Similarity
+	- [ ] **49.13** Computing Similarity Matrices: Movie-Movie Similarity
+	- [ ] **49.14** Computing Similarity Matrices: Effectiveness of Movie-Movie Similarity
+	- [ ] **49.15** ML Models: Surprise Library Overview
+	- [ ] **49.16** Modeling Strategy Overview
+	- [ ] **49.17** Data Sampling
+	- [ ] **49.18** Google Drive with Intermediate Files
+	- [ ] **49.19** Featurization for Regression
+	- [ ] **49.20** Data Transformation for Surprise
+	- [ ] **49.21** XGBoost with 13 Features
+	- [ ] **49.22** Surprise Baseline Model
+	- [ ] **49.23** XGBoost + 13 Features + Surprise Baseline Model
+	- [ ] **49.24** Surprise KNN Predictors
+	- [ ] **49.25** Matrix Factorization Models Using Surprise
+	- [ ] **49.26** SVD++ with Implicit Feedback
+	- [ ] **49.27** Final Models with All Features and Predictors
+	- [ ] **49.28** Comparison Between Various Models
+
+## Module 8: Neural Networks, Computer Vision, and Deep Learning [ ] ^58cb5c76-d011-1567
+- [ ] Chapter 1: Deep Learning - [ ] Neural Networks
+	- [ ] **50.1** History of Neural Networks and Deep Learning
+	- [ ] **50.2** How Biological Neurons Work
+	- [ ] **50.3** Growth of Biological Neural Networks
+	- [ ] **50.4** Diagrammatic Representation: Logistic Regression and Perceptron
+	- [ ] **50.5** Multi-Layered Perceptron (MLP)
+	- [ ] **50.6** Notation
+	- [ ] **50.7** Training a Single-Neuron Model
+	- [ ] **50.8** Training an MLP: Chain Rule
+	- [ ] **50.9** Training an MLP: Memoization
+	- [ ] **50.10** Backpropagation Algorithm
+	- [ ] **50.11** Activation Functions
+	- [ ] **50.12** Vanishing Gradient Problem
+	- [ ] **50.13** Bias-Variance Tradeoff
+	- [ ] **50.14** Decision Surfaces: Playground
+- [ ] Chapter 2: Deep Learning - [ ] Deep Multi-Layer Perceptrons
+	- [ ] **51.1** Deep MLPs: 1980s to 2010s
+	- [ ] **51.2** Dropout Layers & Regularization
+	- [ ] **51.3** Rectified Linear Units (ReLU)
+	- [ ] **51.4** Weight Initialization
+	- [ ] **51.5** Batch Normalization
+	- [ ] **51.6** Optimizers: Hill-Descent Analogy in 2D
+	- [ ] **51.7** Optimizers: Hill Descent in 3D and Contours
+	- [ ] **51.8** Stochastic Gradient Descent (SGD) Recap
+	- [ ] **51.9** Batch SGD with Momentum
+	- [ ] **51.10** Nesterov Accelerated Gradient (NAG)
+	- [ ] **51.11** Optimizers: AdaGrad
+	- [ ] **51.12** Optimizers: Adadelta and RMSProp
+	- [ ] **51.13** Adam
+	- [ ] **51.14** Choosing the Right Algorithm
+	- [ ] **51.15** Gradient Checking and Clipping
+	- [ ] **51.16** Softmax and Cross-Entropy for Multi-Class Classification
+	- [ ] **51.17** Training Deep MLPs
+	- [ ] **51.18** Autoencoders
+	- [ ] **51.19** Word2Vec: CBOW
+	- [ ] **51.20** Word2Vec: Skip-Gram
+	- [ ] **51.21** Word2Vec: Algorithmic Optimizations
+- [ ] Chapter 3: Deep Learning - [ ] TensorFlow and Keras
+	- [ ] **52.1** TensorFlow and Keras Overview
+	- [ ] **52.2** GPU vs CPU for Deep Learning
+	- [ ] **52.3** Google Collaboratory
+	- [ ] **52.4** Installing TensorFlow
+	- [ ] **52.5** Online Documentation and Tutorials
+	- [ ] **52.6** Softmax Classifier on MNIST Dataset
+	- [ ] **52.7** MLP Initialization
+	- [ ] **52.8** Model 1: Sigmoid Activation
+	- [ ] **52.9** Model 2: ReLU Activation
+	- [ ] **52.10** Model 3: Batch Normalization
+	- [ ] **52.11** Model 4: Dropout
+	- [ ] **52.12** MNIST Classification in Keras
+	- [ ] **52.13** Hyperparameter Tuning in Keras
+- [ ] Chapter 4: Deep Learning - [ ] Convolutional Neural Nets (CNNs)
+	- [ ] **53.1** Biological Inspiration: Visual Cortex
+	- [ ] **53.2** Convolution: Edge Detection on Images
+	- [ ] **53.3** Convolution: Padding and Strides
+	- [ ] **53.4** Convolution over RGB Images
+	- [ ] **53.5** Convolutional Layer
+	- [ ] **53.6** Max-Pooling
+	- [ ] **53.7** CNN Training Optimization
+	- [ ] **53.8** Example CNN: LeNet (1998)
+	- [ ] **53.9** ImageNet Dataset
+	- [ ] **53.10** Data Augmentation
+	- [ ] **53.11** Convolution Layers in Keras
+	- [ ] **53.12** AlexNet
+	- [ ] **53.13** VGGNet
+	- [ ] **53.14** Residual Network (ResNet)
+	- [ ] **53.15** Inception Network
+	- [ ] **53.16** Transfer Learning
+	- [ ] **53.17** Code Example: Cats vs Dogs
+	- [ ] **53.18** Code Example: MNIST Dataset
+- [ ] Chapter 5: Deep Learning - [ ] Long Short-Term Memory (LSTMs)
+	- [ ] **54.1** Why Recurrent Neural Networks (RNNs)?
+	- [ ] **54.2** Recurrent Neural Networks
+	- [ ] **54.3** Training RNNs: Backpropagation
+	- [ ] **54.4** Types of RNNs
+	- [ ] **54.5** Need for LSTM/GRU
+	- [ ] **54.6** Long Short-Term Memory (LSTM)
+	- [ ] **54.7** Gated Recurrent Units (GRUs)
+	- [ ] **54.8** Deep RNNs
+	- [ ] **54.9** Bidirectional RNNs
+	- [ ] **54.10** Code Example: IMDB Sentiment Classification
+- [ ] Chapter 6: Deep Learning - [ ] Generative Adversarial Networks (GANs)
+	- [ ] **55.1** Live Session on Generative Adversarial Networks (GANs)
+- [ ] Chapter 7: Encoder-Decoder Models
+	- [ ] **56.1** Live Session on Encoder-Decoder Models
+- [ ] Chapter 8: Attention Models in Deep Learning
+	- [ ] **57.1** Attention Models in Deep Learning
+- [ ] Chapter 9: Image Segmentation
+	- [ ] **58.1** Live Session on Image Segmentation
+- [ ] Chapter 10: Interview Questions on Deep Learning
+	- [ ] **59.1** Questions and Answers
+
+## Module 9: Deep Learning Real-World Case Studies [ ] ^8b2eedd9-61af-f1da
+- [ ] Chapter 1: Case Study 11 - [ ] Human Activity Recognition
+	- [ ] **60.1** Human Activity Recognition: Problem Definition
+	- [ ] **60.2** Dataset Understanding
+	- [ ] **60.3** Data Cleansing & Preprocessing
+	- [ ] **60.4** Exploratory Data Analysis (EDA): Univariate Analysis
+	- [ ] **60.5** EDA: Data Visualization using t-SNE
+	- [ ] **60.6** Classical Machine Learning Models
+	- [ ] **60.7** Deep Learning Model
+- [ ] Chapter 2: Case Study 10 - [ ] Self-Driving Car
+	- [ ] **61.1** Self-Driving Car: Problem Definition
+	- [ ] **61.2** Datasets
+	- [ ] **61.3** Data Understanding & Analysis: Files and Folders
+	- [ ] **61.4** Dash-Cam Images and Steering Angles
+	- [ ] **61.5** Split the Dataset: Train vs Test
+	- [ ] **61.6** EDA: Steering Angles
+	- [ ] **61.7** Mean Baseline Model: Simple Model
+	- [ ] **61.8** Deep Learning Model: Regression (CNN, CNN + RNN)
+	- [ ] **61.9** Batch Loading the Dataset
+	- [ ] **61.10** NVIDIA’s End-to-End CNN Model
+	- [ ] **61.11** Train the Model
+	- [ ] **61.12** Test and Visualize the Output
+	- [ ] **61.13** Extensions
+- [ ] Chapter 3: Case Study 12 - [ ] Music Generation using Deep Learning
+	- [ ] **62.1** Real-World Problem
+	- [ ] **62.2** Music Representation
+	- [ ] **62.3** Char-RNN with ABC Notation: Char-RNN Model
+	- [ ] **62.4** Char-RNN with ABC Notation: Data Preparation
+	- [ ] **62.5** Char-RNN with ABC Notation: Many-to-Many RNN, Time Distributed Dense Layer
+	- [ ] **62.6** Char-RNN with ABC Notation: Stateful RNN
+	- [ ] **62.7** Char-RNN with ABC Notation: Model Architecture, Model Training
+	- [ ] **62.8** Char-RNN with ABC Notation: Music Generation
+	- [ ] **62.9** Char-RNN with ABC Notation: Generate Tabla Music
+	- [ ] **62.10** MIDI Music Generation
+	- [ ] **62.11** Survey Blog
+- [ ] Chapter 4: Interview Questions
+	- [ ] **63.1** Revision Questions
+	- [ ] **63.2** External Resources for Interview Questions
