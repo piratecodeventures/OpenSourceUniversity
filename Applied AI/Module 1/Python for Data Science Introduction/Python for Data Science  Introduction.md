@@ -1,14 +1,49 @@
-# Introduction to Python Programming
 
-In this module, we will cover the basics of Python programming, which is a powerful and versatile language used in a wide range of applications, from web development to data science. By the end of this module, you will have a solid understanding of Python’s syntax, data structures, and core programming concepts. This foundational knowledge will help you get started with Python and serve as the building block for more advanced topics in programming and data science.
+## Chapter 1: Introduction to Python Programming
 
+Python has rapidly become one of the most popular programming languages in the world—and for good reason. It is simple, powerful, and incredibly versatile. Whether you're a beginner taking your first steps into the world of coding or an experienced developer diving into data science, Python offers the tools and readability to make your journey smoother.
+
+This chapter serves as your starting point in learning Python. Here, we’ll lay the groundwork by introducing you to the core concepts and syntax of the language. You’ll learn how to write your first Python programs, understand how the language handles data, and explore the basic building blocks that make up every Python application.
+
+In this chapter, we will walk through:
+
+- How to set up your Python environment using Anaconda and essential data science packages
+    
+- Why Python is a top choice for data science and general-purpose programming
+    
+- The fundamental elements of Python syntax, including keywords, identifiers, and statements
+    
+- How to write clean and readable code with proper comments and indentation
+    
+- Core concepts like variables, data types, standard input/output, operators, and control flow
+    
+
+By the end of this chapter, you’ll have the skills to write basic Python programs and a strong foundation to build on as we move into more complex topics like data structures, data analysis, and beyond.
+
+Let’s get started by setting up your environment and exploring what makes Python such a powerful tool in today’s data-driven world.
+
+---
 Below is the Table of Contents for this module:
 
-- [[Python, Anaconda, and Relevant Packages Installation for Data Science]]
-- [[Why Learn Python]]?
-- [[Keywords and Identifiers]]
-- [[Comments, Indentation, and Statements]]
-- [[Variables and Datatypes in Python]]
-- [[Standard Input and Output]]
-- [[Operators]]
-- [[Control flow]]
+---
+Chapter 1: [[Python for Data Science  Introduction]]
+- [ ]  [[Python, Anaconda, and Relevant Packages Installation for Data Science]]
+- [ ]  [[Why Learn Python]]?
+- [ ]  [[Keywords and Identifiers]]
+- [ ]  [[Comments, Indentation, and Statements]]
+- [ ]  [[Variables and Datatypes in Python]]
+- [ ]  [[Standard Input and Output]]
+- [ ]  [[Operators]]
+- [ ]  [[Control flow]]
+---
+
+
+
+Details Docs:
+[1. An Informal Introduction to Python — Python 3.13.3 documentation](https://docs.python.org/3/tutorial/introduction.html)
+[2. Using the Python Interpreter — Python 3.13.3 documentation](https://docs.python.org/3/tutorial/interpreter.html)
+[3. More Control Flow Tools — Python 3.13.3 documentation](https://docs.python.org/3/tutorial/controlflow.html)
+[4. More Control Flow Tools — Python 3.13.3 documentation](https://docs.python.org/3/tutorial/controlflow.html)
+[5. Input and Output — Python 3.13.3 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
+[Python Setup and Usage — Python 3.13.3 documentation](https://docs.python.org/3/using/index.html)
+[The Python Language Reference — Python 3.13.3 documentation](https://docs.python.org/3/reference/index.html)

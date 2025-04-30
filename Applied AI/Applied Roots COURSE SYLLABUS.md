@@ -4,14 +4,8 @@
 ## Module 1: Fundamentals of Programming [ ]
 - [*] Chapter 1: How to Utilise Applied AI Course?
 	- [x] **1.1** [[How to Learn from Applied AI Course]]?
-- [ ] Chapter 2: [[Python for Data Science  Introduction]] ^905f502b-ef93-8f03
-- [ ] Chapter 3: Python for Data Science: Data Structures ^d3b5dd65-23cc-04b7
-	- [ ] **3.1** Lists
-	- [ ] **3.2** Tuples (Part 1)
-	- [ ] **3.3** Tuples (Part 2)
-	- [ ] **3.4** Sets
-	- [ ] **3.5** Dictionary
-	- [ ] **3.6** Strings
+- [x] Chapter 2: [[Python for Data Science  Introduction]] 
+- [ ] Chapter 3: [[Python for Data Science Data Structures]] 
 - [ ] Chapter 4: Python for Data Science: Functions ^39c63fa4-f246-af44
 	- [ ] **4.1** Introduction
 	- [ ] **4.2** Types of Functions

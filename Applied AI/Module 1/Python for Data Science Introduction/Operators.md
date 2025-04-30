@@ -117,7 +117,7 @@ These operators modify variables in place, improving efficiency for repeated ope
 
 Comparison operators compare two values and return a boolean (`True` or `False`).
 
-- **Equal To (==)**: Checks if both operands are equal.
+- **Equal To ( == )**:  Checks if both operands are equal.
   ```python
   5 == 5  # Output: True
   ```
@@ -228,7 +228,7 @@ Bitwise operators perform operations on binary representations of integers.
 
 These are less common but useful for low-level programming.
 
-#### How Operators Work Internally
+#### 💡💭How Operators Work Internally
 
 It seems likely that operators work by invoking special methods on objects, part of Python’s object-oriented design. For example, `+` calls the `__add__` method, `==` calls `__eq__`, and so on. This is implemented in CPython’s C source code, with the interpreter resolving the operator to the appropriate method based on the object’s type.
 
@@ -312,15 +312,15 @@ This extends operator flexibility, but requires careful design to avoid confusio
 
 #### Table: Summary of Operator Types and Examples
 
-| **Operator Type**      | **Examples**                     | **Description**                              |
-|------------------------|----------------------------------|----------------------------------------------|
-| Arithmetic             | `+`, `-`, `*`, `/`, `//`, `**`, `%` | Perform mathematical operations              |
-| Assignment             | `=`, `+=`, `-=`, `*=`, `/=`, `//=`, `**=`, `%=` | Assign and modify values                     |
-| Comparison             | `==`, `!=`, `>`, `<`, `>=`, `<=` | Compare values, return boolean               |
-| Logical                | `and`, `or`, `not`               | Combine conditions, return boolean           |
-| Identity               | `is`, `is not`                   | Check object identity                        |
-| Membership             | `in`, `not in`                   | Check presence in sequence                   |
-| Bitwise                | `&`, `|`, `^`, `~`, `<<`, `>>`   | Perform binary operations on integers         |
+| **Operator Type** | **Examples**                                    | **Description**                    |                                       |
+| ----------------- | ----------------------------------------------- | ---------------------------------- | ------------------------------------- |
+| Arithmetic        | `+`, `-`, `*`, `/`, `//`, `**`, `%`             | Perform mathematical operations    |                                       |
+| Assignment        | `=`, `+=`, `-=`, `*=`, `/=`, `//=`, `**=`, `%=` | Assign and modify values           |                                       |
+| Comparison        | `==`, `!=`, `>`, `<`, `>=`, `<=`                | Compare values, return boolean     |                                       |
+| Logical           | `and`, `or`, `not`                              | Combine conditions, return boolean |                                       |
+| Identity          | `is`, `is not`                                  | Check object identity              |                                       |
+| Membership        | `in`, `not in`                                  | Check presence in sequence         |                                       |
+| Bitwise           | `&`, `                                          | `, `^`, `~`, `<<`, `>>`            | Perform binary operations on integers |
 
 #### Conclusion
 

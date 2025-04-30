@@ -133,8 +133,6 @@ In conclusion, Python's combination of ease, power, and community support makes 
 - [Python Use By Data Scientists Growing](https://www.cdotrends.com/story/14950/python-use-data-scientists-growing)
 
 ---
-___
-
 
 
 [[FAQ]]

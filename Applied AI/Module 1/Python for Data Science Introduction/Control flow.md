@@ -77,11 +77,9 @@ Use these sparingly to keep code readable.
 
 ---
 
----
-
 ### Comprehensive Note: Control Flow in Python – If-Else, While Loops, For Loops, and Break/Continue
 
-This note provides a detailed, step-by-step exploration of control flow in Python, covering if-else statements, while loops, for loops, and break and continue statements, including their definitions, usage, internal workings, best practices, and common pitfalls. It’s designed to mimic a professional article, offering a thorough resource for beginners and intermediate learners as of March 8, 2025.
+This note provides a detailed, step-by-step exploration of control flow in Python, covering if-else statements, while loops, for loops, and break and continue statements, including their definitions, usage, internal workings, best practices, and common pitfalls. 
 
 #### Introduction: The Role of Control Flow in Python
 
@@ -373,13 +371,13 @@ The thinking trace noted:
 
 #### Table: Summary of Control Flow Constructs
 
-| **Construct**    | **Description**                              | **Example**                                      | **Best Practices**                          |
-|-------------------|----------------------------------------------|--------------------------------------------------|---------------------------------------------|
-| If-Else          | Conditional execution based on conditions    | `if x > 0: print("Positive") else: print("Negative")` | Clear conditions, proper indentation        |
-| While Loop       | Repeated execution while condition is true   | `while count < 5: print(count); count += 1`      | Avoid infinite loops, use else clause wisely |
-| For Loop         | Iteration over sequences                     | `for fruit in ["apple", "banana"]: print(fruit)` | Use enumerate/zip, avoid modifying iterable  |
-| Break            | Exit loop prematurely                        | `for i in range(5): if i == 3: break; print(i)`  | Use sparingly, clear in nested loops        |
-| Continue         | Skip current iteration                       | `for i in range(5): if i % 2 == 0: continue; print(i)` | Use sparingly, clear in nested loops        |
+| **Construct** | **Description**                            | **Example**                                            | **Best Practices**                           |
+| ------------- | ------------------------------------------ | ------------------------------------------------------ | -------------------------------------------- |
+| If-Else       | Conditional execution based on conditions  | `if x > 0: print("Positive") else: print("Negative")`  | Clear conditions, proper indentation         |
+| While Loop    | Repeated execution while condition is true | `while count < 5: print(count); count += 1`            | Avoid infinite loops, use else clause wisely |
+| For Loop      | Iteration over sequences                   | `for fruit in ["apple", "banana"]: print(fruit)`       | Use enumerate/zip, avoid modifying iterable  |
+| Break         | Exit loop prematurely                      | `for i in range(5): if i == 3: break; print(i)`        | Use sparingly, clear in nested loops         |
+| Continue      | Skip current iteration                     | `for i in range(5): if i % 2 == 0: continue; print(i)` | Use sparingly, clear in nested loops         |
 
 #### Conclusion
 
