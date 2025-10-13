@@ -9,6 +9,8 @@
 - **Relevance to Data Science**: Python’s rich ecosystem of libraries (e.g., NumPy, Pandas, Matplotlib, Scikit-learn) and its ease of use make it the go-to language for data analysis, machine learning, and scientific computing.
 - **Official Source**: Download Python from [https://www.python.org/](https://www.python.org/), which provides the interpreter, standard library, and documentation (e.g., [Python Tutorial](https://docs.python.org/3/tutorial/index.html)).
 
+![[Python Programing Langauge.png]]
+
 ---
 
 ## Option 1: Local Installation of Python for Data Science
@@ -24,6 +26,7 @@
    ```
    Expected output: `Python 3.x.x`.
 
+![[How to install Python.png]]
 ### Step 2: Install Anaconda (Recommended for Data Science)
 - **What is Anaconda?**: Anaconda is a distribution of Python and R tailored for data science and machine learning. It includes a package manager (Conda), a GUI (Anaconda Navigator), and pre-installed libraries.
 - **Download**: Get the installer from [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution) (choose Python 3.x version).
@@ -36,6 +39,8 @@
   ```
   Expected output: `conda x.x.x`.
 
+
+![[Anaconda Installation and Verification Process.png]]
 ### Step 3: Set Up a Data Science Environment
 1. **Create a Conda Environment**:
    ```bash
@@ -76,6 +81,8 @@
    print("Setup complete!")
    ```
 
+![[Setting Up A Data Science ENV.png]]
+
 ---
 
 ## Option 2: Using Google Colab for Data Science
@@ -114,6 +121,8 @@
   - Requires internet access.
   - Temporary storage (upload data each session or connect to Google Drive).
 
+![[Colab features.png]]
+
 ---
 
 ## Comparison: Local (Anaconda) vs. Colab
@@ -125,6 +134,8 @@
 | **Storage**       | Local, persistent       | Cloud, temporary          |     |
 | **Customization** | Full control over env   | Limited to Colab’s system |     |
 | **Internet**      | Optional after setup    | Required                  |     |
+
+![[Choose right Platform.png]]
 
 ---
 
@@ -143,6 +154,9 @@
   - Use virtual environments (Conda or `venv`) to avoid package conflicts.
   - Leverage Colab for heavy computations if your local machine is underpowered.
   - Regularly update packages: `conda update --all` or `pip install --upgrade package_name`.
+
+
+![[python Workflow and Tips.png]]
 
 ---
 

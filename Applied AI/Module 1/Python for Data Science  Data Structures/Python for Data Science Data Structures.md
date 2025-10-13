@@ -33,3 +33,5 @@ These tools will become the building blocks for more advanced data processing te
 
 Details Docs:
 [4. Data Structures — Python 3.13.3 documentation](https://docs.python.org/3/tutorial/datastructures.html)
+
+[[Python Data Structures (Interview Questions)]]

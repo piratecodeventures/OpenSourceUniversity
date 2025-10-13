@@ -1,8 +1,11 @@
-# Learning and Revision Strategy: The Feynman Method
+#  Learning and Revision Strategy: The Feynman Method
 
 ## Introduction
 
+
 Effective learning and retention of knowledge require more than passive reading or memorization. The **Feynman Method**, named after physicist Richard Feynman, is a powerful technique designed to deepen understanding through simplification and self-explanation. This chapter explores the method in detail, its steps, applications, and exercises to reinforce learning.
+
+![[Feynman Methods for Enhanced Learning.png]]
 
 ---
 
@@ -42,6 +45,9 @@ One of the best ways to solidify understanding is by teaching the concept to som
 
 > **Exercise:** Try teaching Newton’s Laws to a friend or writing a short explanation as if teaching a child.
 
+
+![[Mastring Concepts with Feynman Method.png]]
+
 ---
 
 ## **Practical Example of the Feynman Method**
@@ -77,6 +83,9 @@ Breadth-first learning involves covering a wide range of topics at a surface lev
 - **Breadth-First Learning** works well for subjects that require general awareness before in-depth study, such as history or language learning.
 - Combining both methods strategically can maximize learning efficiency.
 
+
+![[Choose the right learning approach for optimal understanding.png]]
+
 ---
 
 ## **Why the Feynman Method Works**
@@ -85,6 +94,8 @@ Breadth-first learning involves covering a wide range of topics at a surface lev
 - **Exposes Knowledge Gaps:** Forces you to recognize and address weak areas in your understanding.
 - **Enhances Memory Retention:** Simplification and repetition improve recall.
 - **Boosts Confidence:** Mastering a topic enough to teach it builds confidence in your knowledge.
+
+![[Pathways to Mastery.png]]
 
 ---
 
@@ -97,6 +108,8 @@ The Feynman Method is useful in various disciplines:
 - **Programming:** Teaching coding concepts using everyday analogies.
 - **Business & Communication:** Making presentations clearer and more impactful.
 
+![[Feynman Methods's Versatility.png]]
+
 ---
 
 ## **Exercises to Reinforce Learning**
@@ -106,6 +119,8 @@ The Feynman Method is useful in various disciplines:
 3. **Identify Gaps:** Highlight any points where you struggled or got stuck.
 4. **Review & Refine:** Research those weak areas and simplify your explanation further.
 5. **Teach Someone:** Explain it to a friend, family member, or even record yourself teaching.
+
+![[Exercises to Reinforce Learning.png]]
 
 ---
 
@@ -117,6 +132,8 @@ This structured approach ensures that learning is not just about memorizing fact
 
 https://medium.com/@piratecodeventures/mastering-the-art-of-learning-a-comprehensive-guide-to-effective-study-techniques-cdacd784eab9
 
+## **Pomodoro Technique**
+![[Pomodoro Technique.png]]
 The five steps of the Pomodoro Technique are: 
 
 1. Choose a task
@@ -125,9 +142,13 @@ The five steps of the Pomodoro Technique are: 
 4. Take a short break
 5. After four Pomodoros, take a longer break
 
+![[Pomodoro Technique Steps.png]]
+
 How it works
 
 The Pomodoro Technique is a time management method that involves breaking work into 25-minute intervals, called Pomodoros, separated by short breaks. The traditional break is five minutes long. After four Pomodoros, you take a longer break of about 15–20 minutes. 
+
+![[Pomodoro Technique  Explained.png]]
 
 Benefits
 
@@ -140,6 +161,7 @@ You can try adjusting the work-break ratio to suit your needs. For example, you
 [How to Learn Math for Data Science, The Self-Starter Way](https://elitedatascience.com/learn-math-for-data-science)
 [The math behind Machine Learning Algorithms | Towards Data Science](https://towardsdatascience.com/the-math-behind-machine-learning-algorithms-9c5e4c87fff/)
 
+![[Pomodoro Technique pro and Cons.png]]
 
 
 

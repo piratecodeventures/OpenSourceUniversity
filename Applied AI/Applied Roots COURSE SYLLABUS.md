@@ -6,17 +6,7 @@
 	- [x] **1.1** [[How to Learn from Applied AI Course]]?
 - [x] Chapter 2: [[Python for Data Science  Introduction]] 
 - [ ] Chapter 3: [[Python for Data Science Data Structures]] 
-- [ ] Chapter 4: Python for Data Science: Functions ^39c63fa4-f246-af44
-	- [ ] **4.1** Introduction
-	- [ ] **4.2** Types of Functions
-	- [ ] **4.3** Function Arguments
-	- [ ] **4.4** Recursive Functions
-	- [ ] **4.5** Lambda Functions
-	- [ ] **4.6** Modules
-	- [ ] **4.7** Packages
-	- [ ] **4.8** File Handling
-	- [ ] **4.9** Exception Handling
-	- [ ] **4.10** Debugging Python
+- [ ] Chapter 4: [[Python for Data Science Functions ]]
 - [ ] Chapter 5: Python for Data Science: NumPy ^b454fb93-b278-8625
 	- [ ] **5.1** Introduction to NumPy
 	- [ ] **5.2** Numerical Operations
@@ -776,3 +766,10 @@
 - [ ] Chapter 4: Interview Questions
 	- [ ] **63.1** Revision Questions
 	- [ ] **63.2** External Resources for Interview Questions
+
+
+
+
+
+- [ ]  [Probability and Statistics ](https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) 
+- [ ] 
