@@ -881,6 +881,7 @@ The original 17 categories cover the core platform, but most real enterprise AI 
 5. Add when governance becomes strategic: Synthetic data, semantic layers, and knowledge graphs.
 ## 18.6 Cloud Provider Mapping By Platform Layer
 This is the missing procurement view: if the organization wants a cloud-aligned platform rather than a best-of-breed one, the table below maps the main layers to Azure, AWS, GCP, and notable alternatives.
+
 | Layer | Azure | AWS | GCP | Other Cloud / Cross-Cloud Options |
 |---|---|---|---|---|
 | Identity / Access | Entra ID, Managed Identities, RBAC, Defender for Cloud | IAM, IAM Identity Center, Organizations, Control Tower | Cloud IAM, Cloud Identity | Okta, Keycloak, Auth0, Ping |
