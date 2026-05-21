@@ -2056,6 +2056,67 @@ print(response["sources"])
 
 ---
 
+### 6.10 Google ADK Integration
+
+**Google ADK (AI Development Kit)** is a modern, open-source platform for building, deploying, and scaling AI-powered agents and RAG systems. ADK provides:
+
+- Unified agent and tool APIs for retrieval, embedding, generation, and workflow orchestration
+- Built-in connectors for Google Cloud, Vertex AI, Gemini, Chroma, Pinecone, Qdrant, and more
+- End-to-end pipelines for document ingestion, chunking, embedding, retrieval, and LLM synthesis
+- Production-grade monitoring, security, and cost controls
+
+**Why Use Google ADK for RAG?**
+- Rapid prototyping and deployment on Google Cloud or locally
+- Managed infrastructure for scaling RAG workloads
+- Integration with Google’s latest models (Gemini, Gemma, Vertex AI) and embeddings
+- Enterprise security, compliance, and observability
+
+**Minimal Example: RAG Agent with Google ADK (Python)**
+
+```python
+from google.adk.agents import LlmAgent
+from google.adk.tools.retrieval import BaseRetrievalTool
+from google.adk.models import GeminiLlm
+from google.adk.memory import BaseMemoryService
+
+# Define a retrieval tool (e.g., Chroma, Pinecone, Qdrant, etc.)
+class MyRetrievalTool(BaseRetrievalTool):
+    def retrieve(self, query, top_k=5):
+        # Implement your retrieval logic here
+        return ["Relevant chunk 1", "Relevant chunk 2"]
+
+# Set up the LLM (Gemini, Vertex, etc.)
+llm = GeminiLlm(model="gemini-pro")
+
+# Create the agent
+agent = LlmAgent(
+    llm=llm,
+    tools=[MyRetrievalTool()],
+    memory=BaseMemoryService(),
+    system_prompt="You are a RAG agent. Use retrieved context to answer."
+)
+
+# Run the agent
+response = agent.run({"input": "What is RAG?"})
+print(response["output"])
+```
+
+For a full-featured, production-ready RAG pipeline, see the official [ADK RAG sample](https://github.com/google/adk-samples/tree/main/python/agents/RAG) and [Python API reference](https://adk.dev/api-reference/python/).
+
+**Key Features**:
+- One-line deployment to Google Cloud Run, Vertex AI, or local runtime
+- Built-in support for hybrid search, reranking, streaming, and multi-agent workflows
+- UI dashboard and CLI for monitoring, evaluation, and debugging
+
+**References:**
+- [Google ADK Documentation](https://adk.dev/2.0/)
+- [Python API Reference](https://adk.dev/api-reference/python/)
+- [Official ADK Samples (Python)](https://github.com/google/adk-samples/tree/main/python)
+- [Integrations Catalog](https://adk.dev/integrations/)
+- [Agent Runtime & Deployment](https://adk.dev/runtime/)
+
+---
+
 ## 7. Retrieval Techniques in Depth
 
 ### 7.1 Lexical Search (BM25)
