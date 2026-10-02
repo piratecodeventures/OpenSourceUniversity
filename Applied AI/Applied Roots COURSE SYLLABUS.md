@@ -2,7 +2,7 @@
 # Main Syllabus
 
 ## Module 1: Fundamentals of Programming [ ]
-- [*] Chapter 1: How to Utilise Applied AI Course?
+- [*] Chapter 1: [[How to Utilise Applied AI Course]]?
 	- [x] **1.1** [[How to Learn from Applied AI Course]]?
 - [x] Chapter 2: [[Python for Data Science  Introduction]] 
 - [ ] Chapter 3: [[Python for Data Science Data Structures]] 

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c4b30d1ceab90883",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c840bf15377c053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e940a5b516da9fb4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcf772f069144b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0def45e3ebeebce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4449e389103bbc13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6983a4f8bee9d3e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bcabdd21362b31ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c777d01cc014e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc5f7d939df41f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c1b1f703ac6f44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "applied_notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for applied_notes"
+            }
+          },
+          {
+            "id": "ef214ad8d951f670",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Applied AI/Applied Roots COURSE SYLLABUS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Applied Roots COURSE SYLLABUS"
+            }
+          },
+          {
+            "id": "efd4e9651eef9f63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30359d9dcc53d07b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Applied AI/Applied Roots COURSE SYLLABUS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Applied Roots COURSE SYLLABUS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "e940a5b516da9fb4",
+  "lastOpenFiles": [
+    "QUOTATION- Manufacturing Process Traceability System.md",
+    "2026 AI ML LANDSCAPE.md",
+    "Pasted image 20260505183647.png",
+    "Untitled 4.base",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Rajan Mani Tripathi.md",
+    "Untitled 1.base",
+    "Untitled.md",
+    "Safebros logo.png",
+    "Prompt 2.md",
+    "applied_notes.md",
+    "advance eval.md",
+    "Untitled 1.canvas",
+    "2026-03-18.md",
+    "Untitled 3.base",
+    "Applied AI Notes.md",
+    "Untitled 2.base",
+    "Mind 2026-03-18 14.45.18.mindmap.md",
+    "Curricula in Artificial Intelligence, Machine Learning, and Large Language Models.md",
+    "Applied AI Notes-mindmap.md",
+    "How to Utilise Applied AI Course.md",
+    "Applied AI/Applied Roots COURSE SYLLABUS.md",
+    "Phase 1/applied aoi.md",
+    "Applied AI/Module 1/Python for Data Science Introduction/Python for Data Science  Introduction.md",
+    "NLP/Untitled 1.md",
+    "README.md",
+    "Applied AI/How to Learn from Applied AI Course.md",
+    "Applied AI/FAST API.md",
+    "Applied AI/FAQ.md",
+    "AI Full-Stack Master 2026 - The Complete Pioneer's Journey.md",
+    "AI Full-Stack Master 2026 - The Complete Actionable Pioneer's Journey.pdf",
+    "Applied AI/Numpy/NumPy.md",
+    "Applied AI/Module 1/Python for Data Science Functions/Python for Data Science Functions.md",
+    "Applied AI/Module 1/Python for Data Science  Data Structures/Python for Data Science Data Structures.md",
+    "Phase 1/Captain's Log - Mastering Machine Intelligence/12_leadership",
+    "Phase 1/Captain's Log - Mastering Machine Intelligence/11_frontier_research",
+    "Phase 1/Captain's Log - Mastering Machine Intelligence/10_advanced_integration",
+    "Phase 1/Captain's Log - Mastering Machine Intelligence/09_specialist_tracks/03_mlops"
+  ]
+}
